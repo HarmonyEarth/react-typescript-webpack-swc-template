@@ -1,6 +1,6 @@
 # React 18 Typescript Webpack with SWC-Loader no CRA
 
-Hey there fellow developers. I created this React Webpack template to as a test to see if I could achieve speeds similar to Vite. This required me to use the [SWC-Loader](https://swc.rs/docs/usage/swc-loader). Also the Webpack config is in TS. If for some reason you want a modern React app with Webpack and don't want to use [Nx](https://nx.dev/nx-api/webpack), hopefully this template can work for you.
+Hey there fellow developers. I created this React Webpack template to see if I could achieve speeds similar to Vite. This required me to use the [SWC-Loader](https://swc.rs/docs/usage/swc-loader). Also the Webpack config is in TS. If for some reason you want a modern React app with Webpack and don't want to use [Nx](https://nx.dev/nx-api/webpack), hopefully this template can work for you.
 
 ## Getting Started
 
