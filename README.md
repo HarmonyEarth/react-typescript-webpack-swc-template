@@ -13,6 +13,7 @@ If for some reason you want a modern React app with Webpack and don't want to us
 ## Development
 
 1. Run `npm start` to run the app in the development mode. Open [http://localhost:8080](http://localhost:8080) to view it in the browser. The page will reload if you make edits and save your changes.
+
 2. Run `npm run build` to build the app for production to the dist folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
 Don't forget to update the `README.md` file to reflect your project's details.
