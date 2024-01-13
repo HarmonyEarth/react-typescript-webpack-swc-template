@@ -4,5 +4,6 @@
       "syntax": "typescript",
       "tsx": true
     }
-  }
+  },
+  "minify": true
 }
