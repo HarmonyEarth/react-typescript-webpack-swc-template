@@ -1,8 +1,6 @@
 {
   "name": "react-typescript-webpack-swc-template",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "build": "tsc && webpack --config webpack.config.ts",
     "start": "webpack server --open"
